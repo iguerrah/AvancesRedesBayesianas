@@ -1,0 +1,6 @@
+En el documento que compartí era lo que llevaba hasta ese momento y fue lo que presenté como avance de la metodología. De ahí hubo algunos avances ya que al revisar el código me encontré con errores de las
+donde no las había arrastrado las datas balanceadas de mi variable y que es suicidio.
+Despues investigué un poquito para ver si podía Balancear una de mis variables x que era depresión, para ello convertir la variable frec_depre en una categorica de tipo 0 o 1 donde si encontraba alguna frecuencia de 
+depresión le daba el valor de 1 y si no 0. 
+Esto hizo que mis relaciones mejoraran.
+Esta es la tabvla de correlacion que obtuve
